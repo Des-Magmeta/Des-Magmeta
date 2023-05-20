@@ -6,7 +6,7 @@
 
 ### 关注方式 / Follow Me
 
-[![哔哩哔哩](https://img.shields.io/badge/%E9%9C%9E%E9%B9%9Clxgw-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/515021432)  
+[![哔哩哔哩](https://img.shields.io/badge/Magmeta-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/515021432)  
 
 
 ### 电子邮箱 / E-Mail
