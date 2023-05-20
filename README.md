@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=lxgw&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Des-Magmeta&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
 ### 关注方式 / Follow Me
 
