@@ -2,6 +2,7 @@
 - 增加符号：  
   - 结构描述符号：U+2FFC U+2FFD U+2FFE U+2FFF
   - 中日韩汉字笔划：U+31D2(改) U+31E4 U+31E5(增)
+> 来源：[Unicode 16.0 Alpha](https://www.unicode.org/charts/PDF/Unicode-16.0/#Additions)
 
 - 补字：
   - Issue 提交字：䆉𫁂𠬪𤃬𫟿𮝷𰁜𰛒𰜳𰯲𲂍𦁐䊷𨶒𠾑䨞；㾪䉔拺捼揥軂𠕋𠘧𡠄𢇍𣎳𫢶；
