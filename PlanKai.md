@@ -1,7 +1,4 @@
-# v0.016 版计划  
-- 增加符号：  
-  - 结构描述符号：U+2FFC U+2FFD U+2FFE U+2FFF
-  - 中日韩汉字笔划：U+31D2(改) U+31E4 U+31E5(增)
+# v0.016.1 版计划  
 > 来源：[Unicode 16.0 Alpha](https://www.unicode.org/charts/PDF/Unicode-16.0/#Additions)
 
 - 补字：
@@ -58,11 +55,8 @@
   𫢶        U+2B8B6
   ```
   - 其他来源：㖹𪽲𠛸𠖏𡗷𤛭𠮺𫠬𤿱𠄯𠆭𠇇𠪳𡦹𡧑𢀓𬻷𭅃𭍻𭑊𭚥𭤪𭥟𮓠𮥹；  
-  - 改字：U+351C(J) U+3ADA(G) U+3B05 U+3FE2 U+4B03(J) U+273FE(J)；
-
-- 修复字形轮廓问题：U+4763(J)
-- 修复字形错误：U+3D6A(J)，U+48AD(J)，非G：2AC76
-
+  - 改字：U+273FE(J)；
+  - 非G：2AC76
 
 # 未来计划加字  
 新增：U+23AF1 U+23AF3 U+23B05 U+2CC7E U+20B81 U+2245A U+26487 U+205A9 U+20A54 U+26E3D U+2BC47 U+2BBE1 U+26E3B U+20A37 U+20A38 U+2B3D0 U+2369D U+2C402 U+234FA (U+28F31 U+28F44 U+28F5D U+28F61 U+28F69 U+28F74 U+28F75 U+27C14);
