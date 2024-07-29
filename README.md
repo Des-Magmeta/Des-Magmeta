@@ -5,12 +5,10 @@
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Des-Magmeta&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
 ## 暂停维护通知 / Repositories Commiting Stopped  
-![notice_suspend](https://github.com/Des-Magmeta/Des-Magmeta/assets/125174106/c818104e-42db-4a31-aa4f-0c361dbe66fc)
-
+![notice suspend](https://github.com/user-attachments/assets/ed07b386-bd55-478a-a6f9-bb9a8f2953bd)
 
 ## 关注方式 / Follow Me  
 [![哔哩哔哩](https://img.shields.io/badge/Magmeta-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/515021432)  
-
 
 ## 电子邮箱 / E-Mail  
 [![](https://img.shields.io/badge/1265318015-%40qq.com-royalblue?style=flat-square)](mailto:1265318015@qq.com)
@@ -18,3 +16,5 @@
 
 ## System Environment  
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
+
+</div>
