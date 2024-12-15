@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Des-Magmeta&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
-[开源字体一览（图文版）](https://github.com/Des-Magmeta/Des-Magmeta/FontPlan.md) 
+[开源字体一览（图文版）](https://github.com/Des-Magmeta/Des-Magmeta/blob/main/FontPlan.md) 
 ## 暂停维护通知 / Repositories Commiting Suspended  
 由于本人学业原因，部分开源字体项目暂缓进行。受影响的项目见下图。  
 ![notice suspend](https://github.com/user-attachments/assets/ed07b386-bd55-478a-a6f9-bb9a8f2953bd)
