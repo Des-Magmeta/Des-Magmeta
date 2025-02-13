@@ -1,6 +1,6 @@
 <div align="center">
 
-## <span font-family:"Stick">Hi there 👋 </span>
+## Hi there 👋
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Des-Magmeta&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
