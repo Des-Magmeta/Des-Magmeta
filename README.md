@@ -5,9 +5,9 @@
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Des-Magmeta&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
 [开源字体一览（图文版）](https://github.com/Des-Magmeta/Des-Magmeta/blob/main/FontPlan.md) 
-## 暂停维护通知 / Repositories Commiting Suspended  
-由于本人学业原因，部分开源字体项目暂缓进行。受影响的项目见下图。  
-![notice suspend](https://github.com/user-attachments/assets/ed07b386-bd55-478a-a6f9-bb9a8f2953bd)
+## 未来开发计划 / Future plans about repository Development
+自 6 月 10 日起，部分字体设计相关项目继续开发，并将部分新项目加入队列，具体内容见下图：  
+![Screenshot_20250609_225244_cn wps moffice_eng_edit_223224241826928](https://github.com/user-attachments/assets/c4bf71d1-7f18-43e6-b0ee-0ecca1c01417)
 
 ## 关注方式 / Follow Me  
 [![哔哩哔哩](https://img.shields.io/badge/Magmeta-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/515021432)  
