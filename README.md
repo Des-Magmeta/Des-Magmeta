@@ -25,6 +25,6 @@ Since Jun 10, 2025, some font design projects have been committing, with some ne
 [![](https://img.shields.io/badge/des_magmeta-%40163.com-indianred?style=flat-square)](mailto:des_magmeta@163.com)
 
 ## System Environment  
-[![Windows 11](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 </div>
