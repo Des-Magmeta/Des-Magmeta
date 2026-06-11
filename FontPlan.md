@@ -7,7 +7,7 @@
      - **项目链接**：https://github.com/Des-Magmeta/ChildFunSans 
 [](https://github.com/Des-Magmeta/ChildFunSans/blob/main/Images/ChildFunSans_1.jpg)  
   - **繁体版（TC）**：
-     - **项目状态**：已创设项目本体和项目主页，但目前项目本体仍在制作中，预估 2026 年首次发行。
+     - **项目状态**：已创设项目本体和项目主页，项目主体正在制作中，已于 2026 年首次发行。
      - **项目链接**：https://github.com/Des-Magmeta/ChildFunSans-TC 
 
  2. **计划楷（Plan Kai）**：基于 FONTWORKS 的开源字体 Klee One，并以各地字形为标准的对中日韩统一表意文字扩展区进行自行补充的项目。
