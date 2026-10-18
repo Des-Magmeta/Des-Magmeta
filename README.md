@@ -16,7 +16,7 @@ I'm Nakadai Magmeta, an individual font amateur who is delayed by studying, some
 Since Jan 1, 2027, existed font design projects still have been committing, but we WON'T create new projects. We ask for your understanding.
 
 ## 关注方式 | Follow Me  
-[![哔哩哔哩](https://img.shields.io/badge/Magmeta-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/3546981905467779)  
+[![哔哩哔哩](https://img.shields.io/badge/Nakadai_Magmeta-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/3546981905467779)  
 
 ## 电子邮箱 | E-Mail  
 [![](https://img.shields.io/badge/1265318015-%40qq.com-royalblue?style=flat-square)](mailto:1265318015@qq.com)
