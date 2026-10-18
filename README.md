@@ -3,7 +3,7 @@
 ## Hi there 👋
 这里是仲代骆驼（Nakadai Magmeta），一个被学习耽误的个人字体爱好者。时不时整点字设项目。
 
-I'm Nakadai Magmeta, an individual font amateur who is delayed by studying, often engaging in font design.
+I'm Nakadai Magmeta, an individual font amateur who is delayed by studying, sometimes engaging in font design.
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Des-Magmeta&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
@@ -11,11 +11,9 @@ I'm Nakadai Magmeta, an individual font amateur who is delayed by studying, ofte
 
 ## 未来开发计划 | Future plans about repository Development
 
-自 2025 年 6 月 10 日起，字体设计相关项目继续进行，部分新项目加入开发计划，具体内容见下图：
+自 2027 年 1 月 1 日起，原有的字体设计相关项目继续进行，但此后开发计划不再新增项目。请谅解。
 
-Since Jun 10, 2025, some font design projects have been committing, with some new projects joined into the plan of development, which are shown as below.  
-
-![Screenshot_20250609_225244_cn wps moffice_eng_edit_223224241826928](https://github.com/user-attachments/assets/c4bf71d1-7f18-43e6-b0ee-0ecca1c01417)
+Since Jan 1, 2027, existed font design projects still have been committing, but we WON'T create new projects. We ask for your understanding.
 
 ## 关注方式 | Follow Me  
 [![哔哩哔哩](https://img.shields.io/badge/Magmeta-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/3546981905467779)  
